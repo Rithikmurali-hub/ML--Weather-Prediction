@@ -1,6 +1,6 @@
 # Implementation of Random Forest Algorithm for Weather Prediction
 ## AIM:
-To write a program to predict the weather using random forest algorithm.
+To write a program to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data using Random Forest Algorithm.
 
 ## Problem Statement and Dataset
 
@@ -19,7 +19,7 @@ To write a program to predict the weather using random forest algorithm.
 ## Program:
 ```
 /*
-Program to implement the Random Forest Algorithm for Weather Prediction.
+Program to implement the Random Forest Algorithm to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data.
 Developed by: 
 RegisterNumber:  
 */
